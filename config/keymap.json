@@ -39,7 +39,7 @@
        "&trans", "&trans", "&trans",           "&trans",            "&trans", "&trans",                "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans",           "&trans",            "&trans", "&trans",                "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans",           "&trans",            "&trans", "&trans",                "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&kp LG(LC(LEFT))", "&kp LG(LC(RIGHT))", "&trans",           "&kp LC(TAB)", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans", "&trans", "&trans", "&kp LG(LC(LEFT))", "&kp LC(LG(RIGHT))", "&trans",           "&kp LC(TAB)", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
